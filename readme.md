@@ -25,3 +25,6 @@ The typeface we use is [Manrope 3](https://github.com/sharanda/manrope) by [Mikh
 ### Credits
 
 * Logo design: [James Daniel](https://github.com/jaames)
+
+### Credits
+The Glimpse logo and related assets are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
